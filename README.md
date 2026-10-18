@@ -1,147 +1,63 @@
-<div align="center">
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-# Pavan Gowda S
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/main/light.svg">
+  <img alt="Pavan Gowda S" src="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/main/dark.svg" width="100%">
+</picture>
 
-### Building AI Systems That Solve Real Problems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-gowda-7a70a1378)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pg0061375@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student at RNS Institute of Technology with a focus on **AI engineering, agentic systems, and full-stack development**. I build practical solutions to real-world problems — from intelligent resume analyzers to AI-powered workflow automation.
-
-My work centers on making AI systems that are **explainable, privacy-focused, and production-ready**, whether through hackathons, open-source contributions, or personal projects.
-
-**Currently exploring:** Agentic AI architectures, system design patterns, and scalable backend development  
-**Available for:** AI/ML collaborations, developer tools, full-stack applications, and hackathon teams
-
----
-
-## 🚀 Featured Projects
-
-### [Intelligent Resume Analyzer](https://github.com/Pavan-Gowda-S/Intelligent-Resume-Analyzer_HiDevs)
-**Privacy-first recruitment automation for technical hiring teams**
-
-A deterministic resume screening system that runs entirely offline with zero external API dependencies. Built for recruiters who need explainable AI without privacy compromises.
-
-- Parses PDF, DOCX, and TXT resumes with structured data extraction
-- Transparent scoring algorithm matching candidates to job requirements
-- Generates downloadable HTML/PDF reports and CSV comparison tables
-- 100% local processing — no cloud services, no data leakage
-
-**Tech:** Python, spaCy, PyMuPDF, python-docx, ReportLab
-
----
-
-### [Opero](https://github.com/Pavan-Gowda-S/Opero2)
-**AI-powered restaurant operations platform**
-
-Comprehensive restaurant management system integrating customer engagement, staff coordination, and operational analytics.
-
-- Dynamic menu management with real-time inventory tracking
-- Multi-role authentication (customers, staff, managers, admins)
-- Order processing pipeline with status tracking
-- Admin analytics dashboard with revenue and performance metrics
-
-**Tech:** Python, FastAPI, PostgreSQL, React, Tailwind CSS
-
----
-
-### [SkillMesh](https://github.com/Pavan-Gowda-S/skillmesh)
-**Professional networking platform focused on skills and collaboration**
-
-A modern alternative to traditional networking platforms, emphasizing skill verification and project-based connections.
-
-- Skill-based profile system with endorsement mechanics
-- Project collaboration matching algorithm
-- Real-time messaging and team formation
-- Professional portfolio showcase
-
-**Tech:** JavaScript, Node.js, Express, MongoDB, React
-
----
-
-### [VaultIQ](https://github.com/Pavan-Gowda-S/VaultIQ-2)
-**Intelligent document management and knowledge extraction**
-
-Document processing system that transforms unstructured files into searchable, actionable knowledge bases.
-
-- Multi-format document parsing and indexing
-- Semantic search with contextual relevance scoring
-- Knowledge graph visualization
-- Automated tagging and categorization
-
-**Tech:** Python, FastAPI, Neo4j, React
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**  
-`Python` `JavaScript` `TypeScript` `C++` `Java` `C#` `HTML5`
-
-**AI & Data Science**  
-`PyTorch` `NumPy` `Pandas` `spaCy` `FastAPI` `ML Pipeline Design`
-
-**Frontend Development**  
-`React` `React Router` `TailwindCSS` `Responsive Design`
-
-**Backend & Databases**  
-`Node.js` `Express.js` `PostgreSQL` `MongoDB` `MySQL` `Neo4j` `Supabase` `Firebase`
-
-**Cloud & DevOps**  
-`Vercel` `Render` `Firebase` `Git` `GitHub` `CI/CD Workflows`
-
-**Tools & Platforms**  
-`Notion` `Canva` `Adobe Suite`
-
----
-
-## 📊 GitHub Statistics
+<!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Gowda-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Pavan-Gowda-S&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE&amp;card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Pavan-Gowda-S&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=059669&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=94A3B8&amp;titleColor=0891B2&amp;card_width=1180" alt="Pavan's streak" />
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pavan-Gowda-S&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Gowda-S&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pavan-Gowda-S&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F&amp;card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pavan-Gowda-S&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_rank=true&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=7C3AED&amp;text_color=0F172A&amp;bg_color=FFFFFF&amp;card_width=500" alt="Pavan's GitHub stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Gowda-S&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F&amp;card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Gowda-S&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=0891B2&amp;text_color=0F172A&amp;bg_color=FFFFFF&amp;card_width=500" alt="Top languages" />
+</picture>
 
 </div>
 
----
-
-## 🎯 What I'm Working On
-
-- Building production-ready agentic AI systems with transparent decision-making
-- Exploring advanced system design patterns for scalable applications
-- Contributing to open-source AI infrastructure and developer tools
-- Participating in hackathons focused on practical AI applications
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively seeking opportunities to work on:
-
-- **AI/ML projects** with real-world impact and ethical considerations
-- **Agentic systems** that combine reasoning, planning, and execution
-- **Developer tools** that improve engineering workflows
-- **Full-stack applications** solving meaningful problems
-
-Have an interesting project or hackathon idea? Let's build something together.
-
----
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pavan-Gowda-S&color=0e75b6&style=flat)
-
-**"Curiosity turned into a habit of building something new with every idea."**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/output/github-snake.svg" />
+</picture>
 
 </div>
+
+<!-- ===== END SNAKE ===== -->
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pavan-gowda-s-7a70a1378/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&amp;logoColor=white&amp;labelColor=0A101F&amp;logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:pg0061375@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=10B981&amp;labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
