@@ -7,6 +7,13 @@
   <img alt="Pavan Gowda S" src="https://raw.githubusercontent.com/Pavan-Gowda-S/Pavan-Gowda-S/main/dark.svg" width="100%">
 </picture>
 
+<br/>
+
+<!-- ===== 3D NEURAL AGENTIC CORE ===== -->
+<p align="center">
+  <img src="assets/generated/hero-3d.gif" width="100%" alt="Software-rendered 3D Neural Agentic Core - Pavan Gowda S" />
+</p>
+
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
